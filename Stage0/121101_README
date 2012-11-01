@@ -1,0 +1,12 @@
+Simplest possible case
+- known number of haplotype
+- known phylogeny
+- known length
+- reference sequence, consensus sequences
+
+N = 3000
+u = 1e-5
+No. of haplotypes = 20
+No. of short reads = 1000
+Mean short read length = 400
+Sequence length = 1000
