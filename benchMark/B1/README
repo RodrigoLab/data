@@ -1,0 +1,24 @@
+Simplest possible case
+- known number of haplotype
+- known phylogeny
+- known length
+- reference sequence, consensus sequences
+
+N = 10000
+u = 1e-5
+No. of haplotypes = 10
+No. of short reads = 1000
+Mean short read length = 200
+Sequence length = 1000
+
+
+
+Files
+B1_ref.fasta                Consensus sequenec
+B1_short_reads_1.fasta      Short read file - 1 read
+B1_short_reads_10.fasta     Short read file - 10 reads
+B1_short_reads_100.fasta    Short read file - 100 reads
+B1_short_reads_500.fasta    Short read file - 500 reads
+B1_true_seq.fasta           True alignment
+B1_true_tree.newick        True tree
+
